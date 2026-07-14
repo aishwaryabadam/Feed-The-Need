@@ -24,7 +24,11 @@
     <p>Overall, the Food Waste Management System is designed to efficiently manage excess food and ensure that it is distributed to those in need. The User module accepts food donations, the Admin module lists them for NGOs and charities to choose from, and the Delivery Person module provides pickup and drop-off services. This system benefits the community by reducing food waste and helping those in need
     </p>
     <h3>Home Page</h3>
-    <img src="img/p11.png">
+    <img src="screenshots/Screenshot 2024-11-27 170936.png">
+    <img src="screenshots/Screenshot 2024-11-28 203403.png">
+    <img src="screenshots/Screenshot 2024-11-27 184528.png">
+    <img src="screenshots/Screenshot 2024-11-28 205825 (1).png">
+    <img src="screenshots/Screenshot 2024-11-28 205125 (1).png">
     <h3>User </h3>
    <!-- <img src="img/User-module.jpg"> -->
     <img src="img/mobile.jpg">
